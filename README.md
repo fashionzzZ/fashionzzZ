@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## my website
+## My Website
 https://ultroncode.com
 
 ## Statistics
